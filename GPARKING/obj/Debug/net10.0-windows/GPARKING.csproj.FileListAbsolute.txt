@@ -1,0 +1,637 @@
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.exe
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.deps.json
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.runtimeconfig.json
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.pdb
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.Compat.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.AssemblyReference.cache
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.add.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.alefa.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ClientPage.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.InterfaceForm.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.login.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ParkingPage.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupadd.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupmodif.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popuppaimaka.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.Properties.Resources.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.StatistiquePage.resources
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.GenerateResource.cache
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfoInputs.cache
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfo.cs
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.CoreCompileInputs.cache
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.Up2Date
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\refint\GPARKING.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.pdb
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.genruntimeconfig.cache
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\ref\GPARKING.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.sourcelink.json
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.exe
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.deps.json
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.runtimeconfig.json
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.pdb
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.Compat.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Guna.UI2.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\MySql.Data.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\QuestPDF.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\System.Management.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ZstdSharp.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.AssemblyReference.cache
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.add.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.alefa.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ClientPage.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.InterfaceForm.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.login.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ParkingPage.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupadd.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupmodif.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popuppaimaka.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.Properties.Resources.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.StatistiquePage.resources
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.GenerateResource.cache
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfoInputs.cache
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfo.cs
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.CoreCompileInputs.cache
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.sourcelink.json
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.Up2Date
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\refint\GPARKING.dll
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.pdb
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.genruntimeconfig.cache
+D:\projet_dev\etudes\Csharp\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\ref\GPARKING.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\finoa\source\repos\GPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.exe
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.deps.json
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.runtimeconfig.json
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.pdb
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.Compat.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Guna.UI2.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\MySql.Data.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\OpenTK.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\QuestPDF.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ScottPlot.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\System.Management.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ZstdSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.AssemblyReference.cache
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.add.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.alefa.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ClientPage.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.InterfaceForm.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.login.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ParkingPage.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupadd.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupmodif.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popuppaimaka.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.Properties.Resources.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.StatistiquePage.resources
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.GenerateResource.cache
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfoInputs.cache
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfo.cs
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.CoreCompileInputs.cache
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.sourcelink.json
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.Up2Date
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\refint\GPARKING.dll
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.pdb
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.genruntimeconfig.cache
+D:\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\ref\GPARKING.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.AssemblyReference.cache
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.add.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.alefa.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ClientPage.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.InterfaceForm.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.login.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.ParkingPage.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupadd.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popupmodif.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.popuppaimaka.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.Properties.Resources.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.StatistiquePage.resources
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.GenerateResource.cache
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfoInputs.cache
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.AssemblyInfo.cs
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.CoreCompileInputs.cache
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.sourcelink.json
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\refint\GPARKING.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.pdb
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.exe
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.deps.json
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.runtimeconfig.json
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\GPARKING.pdb
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.Compat.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\FastReport.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.csproj.Up2Date
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\GPARKING.genruntimeconfig.cache
+C:\Users\finoa\OneDrive\Desktop\GPARKING Avec ticket\GESTIONPARKING\GPARKING\obj\Debug\net10.0-windows\ref\GPARKING.dll

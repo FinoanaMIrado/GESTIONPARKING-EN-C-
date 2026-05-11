@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\popuppaimaka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\popuppaimaka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\popuppaimaka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\popuppaimaka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\popuppaimaka.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\popuppaimaka.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\parkingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\parkingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\facturegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\facturegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\statistiquepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\statistiquepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\gparking\\statistiquepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\statistiquepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\statistiquepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\statistiquepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\gparking\\clientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\clientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\clientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\clientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\popupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\popupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\ticketgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\ticketgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\gparking\\parkingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\parkingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\gparking\\popupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\popupadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|c:\\users\\finoa\\onedrive\\desktop\\gparking avec ticket\\gestionparking\\gparking\\gparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A50E4BF5-E853-CB5D-0C9C-F11B1B9643D2}|GPARKING\\GPARKING.csproj|solutionrelative:gparking\\gparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "popupadd.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popupadd.cs",
+              "RelativeDocumentMoniker": "GPARKING\\popupadd.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popupadd.cs",
+              "RelativeToolTip": "GPARKING\\popupadd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:55:36.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientPage.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ClientPage.cs",
+              "RelativeDocumentMoniker": "GPARKING\\ClientPage.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ClientPage.cs",
+              "RelativeToolTip": "GPARKING\\ClientPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:51:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatistiquePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\StatistiquePage.Designer.cs",
+              "RelativeDocumentMoniker": "GPARKING\\StatistiquePage.Designer.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\StatistiquePage.Designer.cs",
+              "RelativeToolTip": "GPARKING\\StatistiquePage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:25:57.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\TicketGenerator.cs",
+              "RelativeDocumentMoniker": "GPARKING\\TicketGenerator.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\TicketGenerator.cs",
+              "RelativeToolTip": "GPARKING\\TicketGenerator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:20:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\Program.cs",
+              "RelativeDocumentMoniker": "GPARKING\\Program.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\Program.cs",
+              "RelativeToolTip": "GPARKING\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:23:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "popuppaimaka.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popuppaimaka.cs",
+              "RelativeDocumentMoniker": "GPARKING\\popuppaimaka.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popuppaimaka.cs [Conception]",
+              "RelativeToolTip": "GPARKING\\popuppaimaka.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:12:57.993Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "popuppaimaka.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popuppaimaka.cs",
+              "RelativeDocumentMoniker": "GPARKING\\popuppaimaka.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popuppaimaka.cs",
+              "RelativeToolTip": "GPARKING\\popuppaimaka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T00:42:57.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "popuppaimaka.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popuppaimaka.Designer.cs",
+              "RelativeDocumentMoniker": "GPARKING\\popuppaimaka.Designer.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popuppaimaka.Designer.cs",
+              "RelativeToolTip": "GPARKING\\popuppaimaka.Designer.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAswBsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:33:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatistiquePage.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\StatistiquePage.cs",
+              "RelativeDocumentMoniker": "GPARKING\\StatistiquePage.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\StatistiquePage.cs",
+              "RelativeToolTip": "GPARKING\\StatistiquePage.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwLkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:46:41.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GPARKING.csproj",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\GPARKING.csproj",
+              "RelativeDocumentMoniker": "GPARKING\\GPARKING.csproj",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\GPARKING.csproj",
+              "RelativeToolTip": "GPARKING\\GPARKING.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T05:54:05.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FactureGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\FactureGenerator.cs",
+              "RelativeDocumentMoniker": "GPARKING\\FactureGenerator.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\FactureGenerator.cs",
+              "RelativeToolTip": "GPARKING\\FactureGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:03:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingPage.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ParkingPage.cs",
+              "RelativeDocumentMoniker": "GPARKING\\ParkingPage.cs",
+              "ToolTip": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ParkingPage.cs",
+              "RelativeToolTip": "GPARKING\\ParkingPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:57:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatistiquePage.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\StatistiquePage.cs",
+              "RelativeDocumentMoniker": "GPARKING\\StatistiquePage.cs",
+              "ToolTip": "D:\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\StatistiquePage.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:10:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientPage.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ClientPage.cs",
+              "RelativeDocumentMoniker": "GPARKING\\ClientPage.cs",
+              "ToolTip": "D:\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ClientPage.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:51:05.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParkingPage.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\ParkingPage.cs",
+              "RelativeDocumentMoniker": "GPARKING\\ParkingPage.cs",
+              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GPARKING\\GPARKING\\ParkingPage.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\GPARKING\\GPARKING\\ParkingPage.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:57:52.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "popupadd.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\finoa\\OneDrive\\Desktop\\GPARKING Avec ticket\\GESTIONPARKING\\GPARKING\\popupadd.cs",
+              "RelativeDocumentMoniker": "GPARKING\\popupadd.cs",
+              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GPARKING\\GPARKING\\popupadd.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\GPARKING\\GPARKING\\popupadd.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:55:28.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
